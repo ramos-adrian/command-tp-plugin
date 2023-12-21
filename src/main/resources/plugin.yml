@@ -1,0 +1,8 @@
+name: CommandTP
+version: 1.0.0
+author: ChasisTorcidoGPT
+main: com.chasistorcido.commandtp.CommandTP
+commands:
+  tp:
+    description: Teleporta a un jugador a otro jugador o ubicación.
+    usage: /tp <jugador> [destino]
